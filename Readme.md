@@ -79,17 +79,17 @@ YOLOv8x → Extra Large (most accurate)
 📷 Examples
 Webcam Detection
 python detector.py
-# Choose model size and option 1
+-Choose model size and option 1
 
 Image Detection
 python detector.py
-# Choose model size and option 2
-# Enter image path (e.g., test.jpg)
+Choose model size and option 2
+-Enter image path (e.g., test.jpg)
 
 Video Detection
 python detector.py
-# Choose model size and option 3
-# Enter video path (e.g., video.mp4)
+-Choose model size and option 3
+-Enter video path (e.g., video.mp4)
 
 ✨ Requirements
 
@@ -102,5 +102,6 @@ python detector.py
 -NumPy
 
 -PyTorch
+
 
 -Matplotlib
